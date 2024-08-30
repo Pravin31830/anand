@@ -7,7 +7,7 @@ const Navbar = () => {
 
     const[isExpanded, setExpanded] = useState(false);
 
-    const menuItems = ['Home', 'About', 'Skills', 'Contact'];
+    const menuItems = ['Home', 'About', 'Skills', 'Projects','Contact'];
 
     function handleMenu() {
 
@@ -16,7 +16,7 @@ const Navbar = () => {
     }
   return (
     <header>
-        <div className="logo">Ragulraj</div>
+        <div className="logo">ANANTH</div>
         <div className="menu">
 
             {menuItems?.map((item, index) =>

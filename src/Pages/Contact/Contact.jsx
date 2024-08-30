@@ -2,7 +2,7 @@ import React from 'react';
 import './contact.scss';
 import Linkedin from '../../assets/Logo/linkedin.svg';
 import Gmail from '../../assets/Logo/gmail.svg';
-import Resume from '../../assets/Pdf/Ragulraj_Resume.pdf';
+import Resume from '../../assets/Pdf/ANANTH.S.pdf';
 import Button from '../../components/Button/Button';
 
 const Contact = () => {
@@ -20,11 +20,11 @@ const Contact = () => {
         
         <div className="contact-links">
 
-          <a href='mailto:rraj9350@gmail.com' target='_blank' rel='noreferrer'><img src={Gmail} alt="" /></a>
+          <a href='mailto:ananth.skp@gmail.com' target='_blank' rel='noreferrer'><img src={Gmail} alt="" /></a>
 
-          <a href='https://www.linkedin.com/in/ragulraj-nagendran-87135a224/' target='_blank' rel='noreferrer'><img src={Linkedin} alt="" /></a>
+          <a href='https://www.linkedin.com/in/s-ananth-572280295/' target='_blank' rel='noreferrer'><img src={Linkedin} alt="" /></a>
 
-        </div>
+        </div >
 
         <Button buttonText='Resume' buttonLInk={Resume} buttonSolid={false} />
 

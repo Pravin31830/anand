@@ -11,7 +11,7 @@ const Footer = () => {
 
         <div className="container flex-res">
         
-            <p>Copyright @ {year}</p>
+            <p>Copyright @S.ANANTH {year}</p>
         
         </div>
 
