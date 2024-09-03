@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        
+
+        {
+            "type": "chrome",
+            "name": "https://github.com/ananthas02/Portfolio1.git",
+            "request": "launch",
+            "url": "https://github.com/ananthas02/Portfolio1.git"
+        }
+    ]
+}
