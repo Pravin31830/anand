@@ -16,8 +16,8 @@ const About = () => {
            <h2>About</h2>
            <p>I’m a frontend developer passionate about creating sleek, user-friendly websites and applications. With expertise in HTML, Tailwind CSS, JavaScript, and modern frameworks like React, I bring designs to life and ensure a seamless user experience.</p>
            <div className='experience'><span>Experience:</span>
-            <p>Frontend developer at Reveille Technologies.<br/>
-            Oct, 2023- Jun, 2024.</p>
+            <p>Frontend developer (React js) at Reveille Technologies.<br/>
+            Jun-2024.</p>
            </div>
            <Button buttonLInk={Resume} buttonText={'Resume'} />
         </div>
